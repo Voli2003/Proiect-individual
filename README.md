@@ -1,5 +1,5 @@
 # Proiect-individual
-Tema propusa prezinta ca si obiectiv un site pentru rezervari online.
+Tema propusa prezinta ca si obiectiv un site pentru rezervari online.<br>
 Cateva functionalitati ale proiectului: 
 ->Posibilitatea utilizatorilor de tip admin de a bloca rezervarile si de a restrictiona utilizatorii normali de la anumite actiuni
 ->Trimiterea automata de mail-uri prin intermediul unui API, pentru confirmare atunci ca se creeaza un cont sau pentru situatia in care ne uitam parola si trebuie sa o schimbam, pentru confirmare rezervare.
